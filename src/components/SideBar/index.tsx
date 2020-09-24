@@ -26,14 +26,9 @@ return (
             <List 
                 title="Talvez você curta" 
                 elements={[
-                    <FollowSuggestion
-                      name="Luiz Batanero"
-                      nickname="@luizbatanero"
-                    />,
-                    <FollowSuggestion name="Luke Morales" nickname="@lukemorales" />,
-                    <FollowSuggestion
-                      name="Camila Magalhães"
-                      nickname="@camilaamgl"
+                    <FollowSuggestion name="Paulo Macyszyn" nickname="@paulomcz" />,
+                    <FollowSuggestion name="Juhh Macyszyn" nickname="@juhhmcz" />,
+                    <FollowSuggestion name="Rute Macyszyn" nickname="@rutemcz"
                     />,
                   ]}
             />

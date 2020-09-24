@@ -23,7 +23,7 @@ return (
 
             <ProfileInfo>
                 <strong>Paulo Macyszyn</strong>
-                <span>127 Tweets</span>
+                <span>19 Tweets</span>
             </ProfileInfo>
         </Header>
 

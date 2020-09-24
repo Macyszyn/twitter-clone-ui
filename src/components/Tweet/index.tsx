@@ -30,13 +30,13 @@ const Feed : React.FC = () => {
 
                 <Content>
                     <Header>
-                        <strong>Rocketseat</strong>
+                        <strong>Paulo Macyszyn</strong>
                         <span>@PauloMcz</span>
                         <Dot />
                         <time> 24 de set</time>
                     </Header>
 
-                    <Description>Foguete não tem ré</Description>
+                    <Description>Os limites é você quem define</Description>
 
                     <ImageContent />
 
